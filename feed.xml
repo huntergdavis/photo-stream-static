@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-    <updated>2020-03-11T15:16:32-07:00</updated>
-    <id>2020-03-11T15:16:32-07:00</id>
+    <updated>2020-03-11T15:24:14-07:00</updated>
+    <id>2020-03-11T15:24:14-07:00</id>
     <title type="html">hunterdavis.com/photo-stream</title>
     <subtitle>Hunter's minimalistic, self-hosted photo stream.  Forked from maxvoltar.photo</subtitle>
     <author>
@@ -15,8 +15,8 @@
     <entry>
       <title type="html">munchie riding shotgun</title>
       <link href="http://localhost:4000/munchie-riding-shotgun/" rel="alternate" type="text/html" title="munchie riding shotgun" />
-      <published>2020-03-11T15:16:32-07:00</published>
-      <updated>2020-03-11T15:16:32-07:00</updated>
+      <published>2020-03-11T15:24:14-07:00</published>
+      <updated>2020-03-11T15:24:14-07:00</updated>
       <id>http://localhost:4000/munchie-riding-shotgun/</id>
       <content type="html">
         <![CDATA[<figure><a href="http://localhost:4000/munchie-riding-shotgun/"><img src="http://localhost:4000/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg" alt="munchie riding shotgun" /></a></figure>
