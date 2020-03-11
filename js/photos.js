@@ -12,7 +12,7 @@ lazyload();
     <span style="background-image: url('/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg')"></span>
   </span>
   <span class="over">
-    UNDERSCORE VERSION _>   and CAMELCASE VERSAION _> 
+    UNDERSCORE VERSION    and CAMELCASE VERSAION 
   </span>
   <a class="open" href="/photo-stream/munchie-riding-shotgun" data-target="munchie-riding-shotgun">Open</a>
   <a class="close" href="/photo-stream/">Close</a>
