@@ -31,6 +31,8 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 .grid .item.target img { object-fit: contain; animation: fade-in .5s ease-out; }
 .grid .item.target .full { display: flex; position: absolute; top: 0; right: 0; bottom: 0; left: 0; animation: fade-in .5s ease-out; }
 .grid .item.target .full span { flex-grow: 1; background-size: contain; background-repeat: no-repeat; background-position: center; }
+.grid .item.target .over { display: flex; position: absolute; top: 0; right: 0; bottom: 0; left: 0; animation: fade-in .5s ease-out; }
+.grid .item.target .over span { flex-grow: 1; background-size: contain; background-repeat: no-repeat; background-position: center; }
 .grid .item.target .meta { display: none !important; }
 .grid .item.target .previous, .grid .item.target .next { display: flex; }
 .links { position: fixed; bottom: 24px; right: 24px; display: flex; flex-wrap: wrap; margin-left: 16px; }
