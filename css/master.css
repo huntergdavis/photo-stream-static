@@ -27,6 +27,7 @@ body { flex-grow: 1; font: 16px/24px -apple-system, BlinkMacSystemFont, "Segoe U
 .grid .item.target { position: fixed; top: 0; right: 0; bottom: 0; left: 0; height: 100%; z-index: 10; background: #fff; display: flex; align-items: center; }
 @media (prefers-color-scheme: dark) { .grid .item.target { background: #000; } }
 .grid .item.target h2 { position: absolute; top: 50%; left: 0; width: 100%; }
+.grid .item.target h2 span { color: white; font: bold 24px/45px Helvetica, Sans-Serif; letter-spacing: -1px; background: black; /* fallback color */ background: rgba(0, 0, 0, 0.7); padding: 10px; }
 .grid .item.target .open { display: none; }
 .grid .item.target .close { display: block; }
 .grid .item.target img { object-fit: contain; animation: fade-in .5s ease-out; }
