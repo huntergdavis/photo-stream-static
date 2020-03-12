@@ -34,10 +34,30 @@ lazyload();
   <a href="/photo-stream/my-desk-at-home" data-target="my-desk-at-home" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
+  <a href="/photo-stream/i-had-blue-hair" data-target="i-had-blue-hair" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
   <!-- <ul class="meta">
     <li></li>
     <li>1/144</li>
     <li><span class="aperture"><em>f</em>/</span>2.4</li>
+	</ul> -->
+</li>
+<li class="item " id="i-had-blue-hair" style="background-image: url('/photo-stream/photos/tint/i%20had%20blue%20hair-65ba1d.jpg')" title="i had blue hair">
+  <img class="lazyload" data-src="/photo-stream/photos/thumbnail/i%20had%20blue%20hair-ccf4df.jpg" src="/photo-stream/photos/tint/i%20had%20blue%20hair-65ba1d.jpg" height="1980" width="2640" />
+  <span class="full">
+    <span style="background-image: url('/photo-stream/photos/large/i%20had%20blue%20hair-686656.jpg')"></span>
+    <h2><span>  For a couple of months while I was retired, I had blue hair  ()</span></h2>
+  </span>
+  <a class="open" href="/photo-stream/i-had-blue-hair" data-target="i-had-blue-hair">Open</a>
+  <a class="close" href="/photo-stream/">Close</a>
+  <a href="/photo-stream/munchie-riding-shotgun" data-target="munchie-riding-shotgun" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
+  <!-- <ul class="meta">
+    <li></li>
+    <li></li>
+    <li><span class="aperture"><em>f</em>/</span>0.0</li>
 	</ul> -->
 </li>
 `);

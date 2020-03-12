@@ -3,8 +3,8 @@
     <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
     <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-    <updated>2020-03-11T18:35:56-07:00</updated>
-    <id>2020-03-11T18:35:56-07:00</id>
+    <updated>2020-03-11T18:48:03-07:00</updated>
+    <id>2020-03-11T18:48:03-07:00</id>
     <title type="html">hunterdavis.com/photo-stream</title>
     <subtitle>Hunter's minimalistic, self-hosted photo stream.  Forked from maxvoltar.photo</subtitle>
     <author>
@@ -15,8 +15,8 @@
     <entry>
       <title type="html">my desk at home</title>
       <link href="http://localhost:4000/my-desk-at-home/" rel="alternate" type="text/html" title="my desk at home" />
-      <published>2020-03-11T18:35:56-07:00</published>
-      <updated>2020-03-11T18:35:56-07:00</updated>
+      <published>2020-03-11T18:48:03-07:00</published>
+      <updated>2020-03-11T18:48:03-07:00</updated>
       <id>http://localhost:4000/my-desk-at-home/</id>
       <content type="html">
         <![CDATA[<figure><a href="http://localhost:4000/my-desk-at-home/"><img src="http://localhost:4000/photo-stream/photos/large/my%20desk%20at%20home-686656.jpg" alt="my desk at home" /></a></figure>
@@ -33,8 +33,8 @@
       <entry>
         <title type="html">munchie riding shotgun</title>
         <link href="http://localhost:4000/munchie-riding-shotgun/" rel="alternate" type="text/html" title="munchie riding shotgun" />
-        <published>2020-03-11T18:35:56-07:00</published>
-        <updated>2020-03-11T18:35:56-07:00</updated>
+        <published>2020-03-11T18:48:03-07:00</published>
+        <updated>2020-03-11T18:48:03-07:00</updated>
         <id>http://localhost:4000/munchie-riding-shotgun/</id>
         <content type="html">
           <![CDATA[<figure><a href="http://localhost:4000/munchie-riding-shotgun/"><img src="http://localhost:4000/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg" alt="munchie riding shotgun" /></a></figure>
@@ -48,4 +48,22 @@
       <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg" />
         <media:content medium="image" url="http://localhost:4000/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
         </entry>
-      </feed>
+        <entry>
+          <title type="html">i had blue hair</title>
+          <link href="http://localhost:4000/i-had-blue-hair/" rel="alternate" type="text/html" title="i had blue hair" />
+          <published>2020-03-11T18:48:03-07:00</published>
+          <updated>2020-03-11T18:48:03-07:00</updated>
+          <id>http://localhost:4000/i-had-blue-hair/</id>
+          <content type="html">
+            <![CDATA[<figure><a href="http://localhost:4000/i-had-blue-hair/"><img src="http://localhost:4000/photo-stream/photos/large/i%20had%20blue%20hair-686656.jpg" alt="i had blue hair" /></a></figure>
+          ]]>
+        </content>
+        <author>
+          <name>Hunter Davis</name>
+          <email>hunter@hunterdavis.com</email>
+          <uri>http://www.hunterdavis.com/photo-stream/</uri>
+        </author>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photo-stream/photos/large/i%20had%20blue%20hair-686656.jpg" />
+          <media:content medium="image" url="http://localhost:4000/photo-stream/photos/large/i%20had%20blue%20hair-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          </entry>
+        </feed>
