@@ -10,9 +10,7 @@ lazyload();
   <img class="lazyload" data-src="/photo-stream/photos/thumbnail/munchie%20riding%20shotgun-ccf4df.jpg" src="/photo-stream/photos/tint/munchie%20riding%20shotgun-65ba1d.jpg" height="3024" width="4032" />
   <span class="full">
     <span style="background-image: url('/photo-stream/photos/large/munchie%20riding%20shotgun-686656.jpg')"></span>
-    <span class="over">
-      Muncie (beagle) riding shotgun in my RV
-    </span>
+    <h2>  Muncie (beagle) riding shotgun in my RV </h2>
   </span>
   <a class="open" href="/photo-stream/munchie-riding-shotgun" data-target="munchie-riding-shotgun">Open</a>
   <a class="close" href="/photo-stream/">Close</a>
